@@ -1,4 +1,4 @@
-[<img src="" alt="👋 Hi there! I'm (Brandon | https://brandonleafman.com)" title="👋 Hi there! I'm (Brandon | https://brandonleafman.com)"/>](https://brandonleafman.com)
+[<img src="/hello.gif" alt="👋 Hi there! I'm (Brandon | https://brandonleafman.com)" title="👋 Hi there! I'm (Brandon | https://brandonleafman.com)"/>](https://brandonleafman.com)
 
 <!--
 **bleafman/bleafman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
