@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 ## 📚 About Me
 
-- 🖥  I'm a full-stack software developer
-- 🐕  dog dad
-- 👨‍🍳  amatuer chef
-- ☕  coffee enthusiast
+🖥 &nbsp; full-stack software developer \
+🐕 &nbsp; dog dad \
+👨‍🍳 &nbsp; amatuer chef \
+☕ &nbsp; coffee enthusiast
 
 ## ⬆ What I'm up to
 
-- 🎯  I'm currently working on my personal site/blog refactor, some unannounced (but fun!) apps, and this README!
+🎯 &nbsp; I'm currently working on my personal site/blog refactor, some unannounced (but fun!) apps, and this README!
 
 ## 🌎 Find me around the web
 
-- Sharing updates on <a href="https://www.linkedin.com/in/brandonleafman/">LinkedIn</a> 💼
-- COMING SOON: Learning in public <a href="#">leafman.dev</a> ✍️
+Sharing updates on <a href="https://www.linkedin.com/in/brandonleafman/">LinkedIn</a> 💼
+
+COMING SOON: Learning in public <a href="#">leafman.dev</a> ✍️
