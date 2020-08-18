@@ -1,4 +1,4 @@
-[<img src="/hello.gif" alt="👋 Hi there! I'm (Brandon | https://brandonleafman.com)" title="👋 Hi there! I'm (Brandon | https://brandonleafman.com)"/>](https://brandonleafman.com)
+[<img src="/hello.gif" width="100%" alt="👋 Hi there! I'm (Brandon | https://brandonleafman.com)" title="👋 Hi there! I'm (Brandon | https://brandonleafman.com)"/>](https://brandonleafman.com)
 
 <!--
 **bleafman/bleafman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## 📚 About Me
 
-- 🖥 I'm a full-stack software developer
-- 🐕 dog dad
-- 👨‍🍳 amatuer chef
-- ☕ coffee enthusiast
+- 🖥  I'm a full-stack software developer
+- 🐕  dog dad
+- 👨‍🍳  amatuer chef
+- ☕  coffee enthusiast
 
 ## ⬆ What I'm up to
 
-- 🎯 I'm currently working on my personal site/blog refactor, some unannounced (but fun!) apps, and this README!
+- 🎯  I'm currently working on my personal site/blog refactor, some unannounced (but fun!) apps, and this README!
 
 ## 🌎 Find me around the web
 
