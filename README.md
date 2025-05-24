@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ## 📚 About Me
 
 🖥 &nbsp; full-stack software developer \
-🐕 &nbsp; dog dad \
+👶 &nbsp; dad \
 👨‍🍳 &nbsp; amatuer chef \
 ☕ &nbsp; coffee enthusiast
 
 ## ⬆ What I'm up to
 
-🎯 &nbsp; I'm currently working on my personal site/blog refactor, some unannounced (but fun!) apps, and this README!
+🎯 &nbsp; I'm currently at <a href="https://fluint.io/">Fluint.io</a> building an AI Agent to help sellers, some unannounced (but fun!) apps, and this README!
 
 ## 🌎 Find me around the web
 
